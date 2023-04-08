@@ -1,4 +1,4 @@
-// AVOURIS SPYRIDON 321/2017001
+// AVOURIS SPYRIDON
 // EXERCISE 1 
 
 package exercise1;
